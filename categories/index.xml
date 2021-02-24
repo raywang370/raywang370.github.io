@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on UniPro Blog</title>
+    <link>https://raywang370.github.io/categories/</link>
+    <description>Recent content in Categories on UniPro Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://raywang370.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communucation</title>
+      <link>https://raywang370.github.io/categories/communucation/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raywang370.github.io/categories/communucation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

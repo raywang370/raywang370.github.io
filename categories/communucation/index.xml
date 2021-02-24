@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communucation on UniPro Blog</title>
+    <link>https://raywang370.github.io/categories/communucation/</link>
+    <description>Recent content in Communucation on UniPro Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://raywang370.github.io/categories/communucation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Errorless in radio comm</title>
+      <link>https://raywang370.github.io/post/firstpost/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raywang370.github.io/post/firstpost/</guid>
+      <description>ACM Adaptive Coding Modulation  Fixed bandwidth Modulation order and code rate varied with MSE in receive end  Example: 28 MHz(BW)    QAM Throughput(~=)     128 170 Mbps   64 140Mbps    note: code rate should also to be considered
+If ACM mode is set to auto, ACM radio scripts will be switched to a compatible profile for keeping predefined BER.</description>
+    </item>
+    
+  </channel>
+</rss>
