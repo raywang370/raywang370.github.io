@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on UniPro Blog</title>
+    <link>https://raywang370.github.io/categories/game/</link>
+    <description>Recent content in Game on UniPro Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://raywang370.github.io/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>遊戲紀錄</title>
+      <link>https://raywang370.github.io/post/currentgame/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raywang370.github.io/post/currentgame/</guid>
+      <description>最近遊戲紀錄 Switch  薩爾達傳說-曠野之息 異度神劍2 &amp;amp; 黃金之國 星露谷物語 空洞騎士  PC  天命奇御 Terraria   Stardewvalley and Terraria are kill time.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
